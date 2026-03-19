@@ -4,24 +4,24 @@ decoration = no
 sigusr1 = reload
 
 [viewer]
-window = #170306ff
-transparency = #170306ff
+window = #2b050aff
+transparency = #2b050aff
 scale = optimal
 position = center
 
 [slideshow]
-window = #170306ff
-transparency = #170306ff
+window = #2b050aff
+transparency = #2b050aff
 scale = fit
 position = center
 
 [gallery]
-select = #f3d8daff
-background = #22060aff
+select = #f6d7dbff
+background = #3b0911ff
 border_color = #ffe9e7ff
-window = #170306ff
+window = #2b050aff
 
 [font]
 color = #ffe9e7ff
-shadow = #17030600
-background = #6f0d1fd8
+shadow = #2b050a00
+background = #8f112ad8

@@ -2,7 +2,7 @@
   <title id="title">Rust Dark Omarchy wallpaper</title>
   <desc id="desc">A centered dark rust ASCII wallpaper sourced from the local wallpaper.txt file.</desc>
 
-  <rect width="3840" height="2160" fill="#170306" />
+  <rect width="3840" height="2160" fill="#2b050a" />
 
   <text
     x="960"

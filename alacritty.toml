@@ -1,32 +1,32 @@
 [colors.primary]
-background = "#170306"
+background = "#2b050a"
 foreground = "#ffe9e7"
 dim_foreground = "#ffe9e7"
 bright_foreground = "#ffe9e7"
 
 [colors.cursor]
-text = "#170306"
+text = "#2b050a"
 cursor = "#ffe9e7"
 
 [colors.vi_mode_cursor]
-text = "#170306"
+text = "#2b050a"
 cursor = "#ffe9e7"
 
 [colors.search.matches]
-foreground = "#170306"
-background = "#f3d8da"
+foreground = "#2b050a"
+background = "#f6d7db"
 
 [colors.search.focused_match]
 foreground = "#ffe9e7"
-background = "#6f0d1f"
+background = "#8f112a"
 
 [colors.footer_bar]
 foreground = "#ffe9e7"
-background = "#6f0d1f"
+background = "#8f112a"
 
 [colors.selection]
-text = "#170306"
-background = "#f3d8da"
+text = "#2b050a"
+background = "#f6d7db"
 
 [colors.normal]
 black = "#ffe9e7"

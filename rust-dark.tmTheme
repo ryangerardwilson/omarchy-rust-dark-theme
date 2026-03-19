@@ -10,7 +10,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#170306</string>
+        <string>#2b050a</string>
         <key>foreground</key>
         <string>#FFE9E7</string>
         <key>caret</key>
@@ -18,11 +18,11 @@
         <key>selection</key>
         <string>#D62F4B</string>
         <key>lineHighlight</key>
-        <string>#22060a</string>
+        <string>#3b0911</string>
         <key>invisibles</key>
         <string>#FFE9E7</string>
         <key>gutter</key>
-        <string>#170306</string>
+        <string>#2b050a</string>
         <key>gutterForeground</key>
         <string>#FFE9E7</string>
       </dict>
@@ -151,7 +151,7 @@
         <key>foreground</key>
         <string>#FFE9E7</string>
         <key>background</key>
-        <string>#22060a</string>
+        <string>#3b0911</string>
       </dict>
     </dict>
     <dict>
@@ -164,7 +164,7 @@
         <key>foreground</key>
         <string>#FFE9E7</string>
         <key>background</key>
-        <string>#22060a</string>
+        <string>#3b0911</string>
       </dict>
     </dict>
     <dict>
@@ -177,7 +177,7 @@
         <key>foreground</key>
         <string>#FFE9E7</string>
         <key>background</key>
-        <string>#22060a</string>
+        <string>#3b0911</string>
       </dict>
     </dict>
     <dict>
@@ -190,7 +190,7 @@
         <key>foreground</key>
         <string>#FFE9E7</string>
         <key>background</key>
-        <string>#22060a</string>
+        <string>#3b0911</string>
       </dict>
     </dict>
   </array>
