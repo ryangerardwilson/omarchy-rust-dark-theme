@@ -15,30 +15,30 @@ return {
         floats = "normal",
       },
       colors = {
-        base00 = "#241813",
-        base01 = "#1a110d",
-        base02 = "#7e3d21",
-        base03 = "#f0d7c6",
-        base04 = "#f0d7c6",
-        base05 = "#fff1e8",
-        base06 = "#fff1e8",
-        base07 = "#fff1e8",
-        base08 = "#fff1e8",
-        base09 = "#f0d7c6",
-        base0A = "#d78a59",
-        base0B = "#fff1e8",
-        base0C = "#f0d7c6",
-        base0D = "#fff1e8",
-        base0E = "#d78a59",
-        base0F = "#f0d7c6",
+        base00 = "#170306",
+        base01 = "#22060a",
+        base02 = "#6f0d1f",
+        base03 = "#efc2c6",
+        base04 = "#efc2c6",
+        base05 = "#ffe9e7",
+        base06 = "#ffe9e7",
+        base07 = "#ffe9e7",
+        base08 = "#ffe9e7",
+        base09 = "#efc2c6",
+        base0A = "#d62f4b",
+        base0B = "#ffe9e7",
+        base0C = "#efc2c6",
+        base0D = "#ffe9e7",
+        base0E = "#d62f4b",
+        base0F = "#efc2c6",
       },
       on_highlights = function(hl)
-        local white = "#fff1e8"
-        local blue = "#241813"
-        local dark = "#1a110d"
-        local deep = "#7e3d21"
-        local light = "#f0d7c6"
-        local mid = "#d78a59"
+        local white = "#ffe9e7"
+        local blue = "#170306"
+        local dark = "#22060a"
+        local deep = "#6f0d1f"
+        local light = "#efc2c6"
+        local mid = "#d62f4b"
 
         hl.Normal = { fg = white, bg = blue }
         hl.NormalNC = { fg = white, bg = blue }
@@ -153,12 +153,12 @@ return {
     },
     config = function(_, opts)
       local function apply_bsod_plugin_highlights()
-        local white = "#fff1e8"
-        local blue = "#241813"
-        local dark = "#1a110d"
-        local deep = "#7e3d21"
-        local light = "#f0d7c6"
-        local mid = "#d78a59"
+        local white = "#ffe9e7"
+        local blue = "#170306"
+        local dark = "#22060a"
+        local deep = "#6f0d1f"
+        local light = "#efc2c6"
+        local mid = "#d62f4b"
         local groups = {
           MiniIconsAzure = { fg = light, bg = blue },
           MiniIconsBlue = { fg = white, bg = blue },
